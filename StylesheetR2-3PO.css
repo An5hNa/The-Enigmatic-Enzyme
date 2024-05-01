@@ -1,0 +1,24 @@
+﻿button {
+	border:5px;
+	border-radius:20px;
+	background-color:#4487CF;
+	height:50px;
+	width:150px;
+	font-weight:bold;
+	color:#ffffff;
+}
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+body {
+	background-color:#000435;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center center;
+	
+}
+h1 {
+	font-family:"Informal Roman","Times New Roman", serif;
+	font-size: 50px;
+}
